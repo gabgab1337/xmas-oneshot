@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "781ff146e6cc4e3f",
+        "id": "063d74e7269adbc5",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf46b83f6012a62",
+            "id": "c2e19ede4a012531",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Plot.md",
-                "mode": "source",
-                "source": false
+                "file": "Plan działania.png"
               },
-              "icon": "lucide-file",
-              "title": "Plot"
+              "icon": "lucide-image",
+              "title": "Plan działania"
             }
           }
         ]
@@ -162,10 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bf46b83f6012a62",
+  "active": "c2e19ede4a012531",
   "lastOpenFiles": [
+    "image.webp",
+    "Miejsca/Komisariat.md",
+    "Miejsca/Kościół.md",
+    "Miejsca/Szkoła średnia.md",
+    "Miejsca/Biblioteka.md",
+    "Miejsca/Jezioro.md",
+    "Miejsca/Jarmark.md",
+    "Miejsca/Galeria.md",
     "Postacie/Edward Ferdrick Leopold Shafflehorn.md",
+    "Entity.md",
+    "Checklista.md",
+    "Postacie/Untitled.md",
+    "Plan działania.png",
     "Plot.md",
+    "Rama czasowa.md",
+    "Miejsca/Manor.md",
+    "Miejsca",
     "Postacie"
   ]
 }

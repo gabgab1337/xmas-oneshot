@@ -1,0 +1,6 @@
+- Mapa willi
+- Plot w willi 1/2
+- **Plot hooki, połączenia**
+- Sposób/sposoby zabicia entity
+- Santa killer
+- Miasto? Galeria, jakie sklepy itp. Jarmark świąteczny

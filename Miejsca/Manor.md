@@ -1,0 +1,7 @@
+- Jadalnia
+- Guest room
+- Salon
+- Pokój do czytania
+- Kuchnia giga
+- Garderoba wyjściowa
+- Galeria na korytarzu/osobna
